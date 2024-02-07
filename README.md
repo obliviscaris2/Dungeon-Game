@@ -10,7 +10,7 @@
 
 ### **How to Run the Game**
 
-***[ Install Love2d from here ]***  ([https://gaganpreetkaurkalsi.netlify.app/](https://love2d.org/  )
+***[ Install Love2d from here ]***  (https://love2d.org/ )
 
 -Run the ***dungeon-game.love*** file. This will launch Love2d and run the game.
 
@@ -27,8 +27,8 @@ The game's main focus is exploration, set to an awesome soundtrack.
 
 
 ### ***Credits***
-- Tiles: OpenGameArt  ([https://gaganpreetkaurkalsi.netlify.app/](https://love2d.org/  )
-- Music: OpenGameArt  ([https://gaganpreetkaurkalsi.netlify.app/](https://love2d.org/  )
+- Tiles: OpenGameArt (https://love2d.org/  )
+- Music: OpenGameArt  (https://love2d.org/  )
 
 
 ### License
@@ -36,3 +36,6 @@ This game is licensed under the MIT License.
 
 ### Screenshot
 
+![Alt](path to img)
+
+![Image](/screenshots/sc-1.PNG)
