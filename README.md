@@ -36,6 +36,4 @@ This game is licensed under the MIT License.
 
 ### Screenshot
 
-![Alt](path to img)
-
 ![Image](/screenshots/sc-1.PNG)
